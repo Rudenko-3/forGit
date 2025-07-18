@@ -5,7 +5,7 @@
     <title>Мій перший Git-проект</title>
 </head>
 <body>
-    <h1>Привіт, світ!</h1>
-    <p>Це мій перший HTML-файл у репозиторії Git.</p>
+    <h1>Hi, everybody!</h1>
+    <p>This is my first HTML-file in repository Git.</p>
 </body>
 </html>
