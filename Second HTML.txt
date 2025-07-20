@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Моя перша сторінка</title>
+  <title>Мій другий файл</title>
 </head>
 <body>
-  <h1>Привіт, світ!</h1>
-  <p>Це мій перший HTML-документ.</p>
+  <h1>Привіт, Андрій!</h1>
+  <p>Це мій другий HTML-документ.</p>
   <a href="https://example.com">Перейти на інший сайт</a>
 </body>
 </html>
